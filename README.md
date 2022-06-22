@@ -1,4 +1,4 @@
-# Books-Ananlysis 
+# Book Sales-Analysis 
 Project was carried out using power bi software.
 # Project statement 
 An investment company decided to open an e-commerce company aiming to selling books and they want a recommendation on books with highest selling potential 
